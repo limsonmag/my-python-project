@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("Hello, Git Branching World!!!")
+print("Hello, Git Branching World!")
